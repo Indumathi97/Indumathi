@@ -1,4 +1,5 @@
-## Hi 🙋🏻‍♀️ I'm Indumathi K
+## overview 
+Hi 🙋🏻‍♀️ I'm Indumathi K
 
 ## 🚀 About Me
 I am a Aspiring Data Analyst with hands-on experience in SQL, Python, Advanced Excel, and data visualization tools like Power BI and Tableau. I have worked on diverse projects involving multi-source data cleaning, processing, analysis, and reporting to derive actionable business insights.
