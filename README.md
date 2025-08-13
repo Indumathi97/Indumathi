@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/732fcad2-eec1-48f3-ba0b-55068bed85ab" /># Hi 🙋🏻‍♀️ I'm Indumathi K
+## Hi 🙋🏻‍♀️ I'm Indumathi K
 
 ## 🚀 About Me
 I am a Aspiring Data Analyst with hands-on experience in SQL, Python, Advanced Excel, and data visualization tools like Power BI and Tableau. I have worked on diverse projects involving multi-source data cleaning, processing, analysis, and reporting to derive actionable business insights.
