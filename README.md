@@ -16,28 +16,13 @@ This repository showcases capstone projects that demonstrate my practical skills
 ## 📁 Projects
 
 ### 🐍 Customer Churn Prediction - Python  
-**Objective:** Analyze unstructured, multi-source business data to support decision-making.  
-**Skills Used:** Python (Pandas, NumPy), Matplotlib, Seaborn, statistical analysis  
-**Deliverables:** Jupyter notebooks with data preprocessing, exploratory data analysis, and visualization dashboards    
-**Impact:** Enabled business stakeholders to optimize operations and make data-driven decisions.
 
 ### 📊 ShopNest Store Sales Analysis - Microsoft Power BI  
-**Objective:** Analyze sales and customer behavior for ShopNest Store to improve sales strategy.  
-**Skills Used:** Power BI, DAX formulas, dashboard creation, data integration  
-**Deliverables:** Interactive Power BI dashboards showing category-wise, region-wise sales performance and KPIs  
-**Impact:** Improved inventory management and sales efficiency through actionable insights.
 
 ### 🧮 Airline Database Analysis and Northwind Database Analysis - SQL  
-**Objective:** Extract and analyze sales and inventory data distributed over 12 interlinked tables.  
-**Skills Used:** Advanced SQL queries including joins, views, aggregations  
-**Deliverables:** SQL scripts and reports highlighting key metrics and growth opportunities  
-**Impact:** Enhanced reporting accuracy by 30% and streamlined decision-making processes.
 
 ### 📈 Freshco Hypermarket - Excel  
-**Objective:** Improve sales and operations reporting for Freshco Hypermarket.  
-**Skills Used:** Advanced Excel functionalities such as PivotTables, VLOOKUP, formulas, dashboards  
-**Deliverables:** Excel workbooks with integrated KPIs and reporting dashboards  
-**Impact:** Increased order completion rates by 15% and reduced operational delays.
+
 
 ---
 
